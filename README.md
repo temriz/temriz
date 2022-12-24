@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @temriz
-- 👀 I’m interested in web deevelopment, android development
+- 👀 I’m interested in web development, android development
 - 🌱 I’m currently learning android development
 - 💞️ I’m looking to collaborate on web framework, web development and design
 - 📫 How to reach me ...
